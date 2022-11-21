@@ -1,5 +1,6 @@
-# music
+# music-app
 
+## live-demo : https://vue-music-kc9nb9s2j-amjed-98.vercel.app/
 ## Project setup
 ```
 yarn install
